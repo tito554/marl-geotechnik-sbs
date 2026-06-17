@@ -1,0 +1,43 @@
+# Geotechnik — Marl
+
+> Geotechnical engineering services in Marl, Deutschland.
+
+## Services
+- [Anker](https://marl.geotechnik.sbs/anker/)
+- [Atterberg Grenzen](https://marl.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://marl.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://marl.geotechnik.sbs/aushub-monitoring/)
+- [Bodenplatten](https://marl.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://marl.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://marl.geotechnik.sbs/boschungsstabilitat/)
+- [Cbr Strasse](https://marl.geotechnik.sbs/cbr-strasse/)
+- [Erdbebenisolierung](https://marl.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://marl.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://marl.geotechnik.sbs/fundamente/)
+- [Geophysik](https://marl.geotechnik.sbs/geophysik/)
+- [Grundungen](https://marl.geotechnik.sbs/grundungen/)
+- [Hange](https://marl.geotechnik.sbs/hange/)
+- [Injektionen](https://marl.geotechnik.sbs/injektionen/)
+- [Korngrossenanalyse](https://marl.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://marl.geotechnik.sbs/labor/)
+- [Labor In Situ](https://marl.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://marl.geotechnik.sbs/masw/)
+- [Pfahle](https://marl.geotechnik.sbs/pfahle/)
+- [Plattendruckversuch](https://marl.geotechnik.sbs/plattendruckversuch/)
+- [Ruttelverdichtung](https://marl.geotechnik.sbs/ruttelverdichtung/)
+- [Schurfgruben](https://marl.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://marl.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://marl.geotechnik.sbs/seismische-mikrozonierung/)
+- [Starrer Belag](https://marl.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://marl.geotechnik.sbs/strassenbau/)
+- [Untersuchung](https://marl.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://marl.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://marl.geotechnik.sbs/weichbodentunnel/)
+- [Widerstand](https://marl.geotechnik.sbs/widerstand/)
+
+## Contact
+- Website: https://marl.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Marl, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
